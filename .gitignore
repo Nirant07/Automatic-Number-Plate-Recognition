@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Model weights
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# External dependencies
+PaddleOCR/
+PaddleOCR-main.zip
+
+# Input and output images
+output/
+*.jpg
+*.jpeg
+*.png
+
+# IDE
+.vscode/
+.idea/
