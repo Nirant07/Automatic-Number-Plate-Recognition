@@ -1,5 +1,6 @@
 # Automatic Number Plate Recognition (ANPR)
 
+
 **An image-based Automatic Number Plate Recognition system built using Python, YOLOv8, OpenCV and deep learning-based OCR.**
 
 This project aims to automate vehicle license plate detection and text recognition from images. It combines object detection and optical character recognition (OCR) to identify license plates, extract their contents and store the recognition results in a structured format.
