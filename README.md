@@ -7,6 +7,7 @@ This project aims to automate vehicle license plate detection and text recogniti
 
 The system is designed with a modular workflow, keeping license plate detection and text recognition as separate stages. This makes it easier to improve individual components and eventually extend the system to video-based and real-time recognition.
 
+
 ---
 
 
