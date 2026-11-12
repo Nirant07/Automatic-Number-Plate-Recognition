@@ -13,6 +13,7 @@ The system is designed with a modular workflow, keeping license plate detection 
 
 ## Table of Contents
 
+
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [System Architecture](#system-architecture)
