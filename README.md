@@ -30,6 +30,7 @@ The system is designed with a modular workflow, keeping license plate detection 
 - [Future Enhancements](#future-enhancements)
 - [References](#references)
 
+
 ---
 
 ## Overview
