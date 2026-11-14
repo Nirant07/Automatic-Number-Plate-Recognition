@@ -46,6 +46,7 @@ OpenCV handles image loading, cropping, annotation and output generation, while 
 
 The current implementation supports processing multiple vehicle images in a single execution.
 
+
 ## Objectives
 
 The primary objectives of this project are:
