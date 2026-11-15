@@ -58,6 +58,7 @@ The primary objectives of this project are:
 - Store detection and recognition results in structured output files.
 - Build a foundation for future video-based ANPR implementation.
 
+
 ## System Architecture
 
 The system follows a sequential detection and recognition architecture.
