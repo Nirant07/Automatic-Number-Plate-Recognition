@@ -34,6 +34,7 @@ The system is designed with a modular workflow, keeping license plate detection 
 
 ---
 
+
 ## Overview
 
 Automatic Number Plate Recognition (ANPR), also known as License Plate Recognition (LPR), is a computer vision application that identifies vehicle registration plates and extracts the alphanumeric information printed on them.
